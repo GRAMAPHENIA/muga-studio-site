@@ -2,7 +2,7 @@
 
 Portafolio digital especializado en diseño gráfico y producción audiovisual, showcasing trabajos realizados con las herramientas de Adobe Creative Suite.
 
-## 🎨 Especialidades
+## 🎨 Especialidades 
 
 - **Photoshop**: Retoque fotográfico, composición digital y diseño gráfico
 - **Illustrator**: Ilustración vectorial, branding y diseño de logotipos
