@@ -49,4 +49,4 @@ Para consultas sobre proyectos de diseño gráfico o producción audiovisual, vi
 
 ---
 
-*MUGA STUDIO - Creatividad visual sin límites*
+*MUGA STUDIO - Diseño gráfico y motion pensados como sistema: claros, consistentes y escalables.*
