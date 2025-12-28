@@ -1,52 +1,36 @@
-# MUGA STUDIO
+# muga-studio-site
 
-Portafolio digital especializado en diseño gráfico y producción audiovisual, showcasing trabajos realizados con las herramientas de Adobe Creative Suite.
+**Estado:** 🟢 Activo
 
-## 🎨 Especialidades 
+Sitio del área MUGA.studio.
+Comunica criterio visual, sistema gráfico y continuidad creativa aplicada.
 
-- **Photoshop**: Retoque fotográfico, composición digital y diseño gráfico
-- **Illustrator**: Ilustración vectorial, branding y diseño de logotipos
-- **Premiere Pro**: Edición de video, montaje y post-producción
-- **After Effects**: Motion graphics, animaciones y efectos visuales
+## Qué es
+La presencia pública de MUGA.studio.
+Un sitio pensado para mostrar trabajo, enfoque y sistema visual,
+no un portfolio experimental ni una colección de pruebas.
 
-## 🚀 Tecnologías
+## Para qué sirve
+- Presentar el área de diseño y motion del estudio.
+- Comunicar criterio, no solo resultados.
+- Sostener una identidad visual coherente en el tiempo.
 
-- **Framework**: Astro 5.x
-- **Styling**: Tailwind CSS 4.x
-- **Deployment**: Optimizado para despliegue estático
-- **Performance**: Sitio completamente optimizado para velocidad
+## Público objetivo
+- Clientes interesados en diseño aplicado y sistemas visuales.
+- Colaboradores creativos.
+- Proyectos que requieran continuidad estética.
 
-## 📁 Estructura del Proyecto
+## Enfoque
+- Diseño como sistema.
+- Claridad visual antes que efectos.
+- Coherencia entre piezas, no exhibición de herramientas.
 
-```
-src/
-├── components/     # Componentes reutilizables
-├── layouts/        # Layouts de página
-├── pages/          # Páginas del sitio
-├── styles/         # Estilos globales
-└── types/          # Definiciones de tipos TypeScript
-```
+## Stack
+- Astro
+- CSS moderno
+- HTML semántico
 
-## 🛠️ Desarrollo
-
+## Desarrollo local
 ```bash
-# Instalar dependencias
-pnpm install
-
-# Servidor de desarrollo
-pnpm dev
-
-# Build para producción
-pnpm build
-
-# Preview del build
-pnpm preview
-```
-
-## 📞 Contacto
-
-Para consultas sobre proyectos de diseño gráfico o producción audiovisual, visita la sección de contacto en el sitio web.
-
----
-
-*MUGA STUDIO - Diseño gráfico y motion pensados como sistema: claros, consistentes y escalables.*
+npm install
+npm run dev
